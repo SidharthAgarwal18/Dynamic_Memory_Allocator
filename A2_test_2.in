@@ -1,0 +1,16 @@
+1
+100
+13
+Allocate 50
+Allocate 46
+Free 0
+Allocate 25
+Allocate 10
+Allocate 5
+Allocate 10
+Free 40
+Free 35
+Free 0
+Free 25
+Defragment 0
+Allocate 4
